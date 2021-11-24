@@ -7,8 +7,8 @@
 * [阿里-sula](https://github.com/umijs/sula)
 * [运满满-码良](https://github.com/ymm-tech/gods-pen)
   * [如何设计高扩展的在线网页制作平台](https://juejin.im/post/5bd83daee51d4524b50d23b5)
-* [百度-amis](https://github.com/baidu/amis)
-  * [Ovine](https://github.com/CareyToboo/ovine)：基于 amis 补全了路由、权限相关的组件
+* [百度-amis](https://github.com/baidu/amis) 编辑器未开源
+  * [Ovine](https://github.com/CareyToboo/ovine)：基于 amis 补全了路由、权限相关的组
   * [爱速搭](https://suda.baidu.com/)
 * [vue-admin](https://github.com/jiangshanmeta/vue-admin)
 * [鲁班 H5](https://github.com/ly525/luban-h5)
