@@ -22,5 +22,8 @@
 * [cube](https://github.com/fantasticit/cube)：快速搭建中后台页面
 * [Web Designer](https://github.com/xiaoai7904/web_designer)
 * [form-generator](https://github.com/JakHuang/form-generator)：Element UI表单设计及代码生成器
+  * json格式
+  * 控件少
+  * 关注多，成熟，没有下拉自定义数据
 * [form-render](https://github.com/alibaba/form-render)：阿里 通过 JSON Schema 生成标准 Form，基于React
 * [nocobase](https://github.com/nocobase/nocobase)
